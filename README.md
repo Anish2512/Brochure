@@ -15,7 +15,7 @@ The system takes a company’s **name** and **website URL**, scrapes relevant in
 ---
 
 ## 📂 Project Structure
-- `brochure.ipynb` → Main Jupyter Notebook (end-to-end workflow)
+- `business-brochure.ipynb` → Main Jupyter Notebook (end-to-end workflow)
 - `business.jpg` → Example image used for demo
 - `Website` class → Utility for web scraping and parsing
 - LLM integration (Llama 3.2) for content generation
